@@ -1,6 +1,6 @@
 {
   "name": "wordage",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A tool for finding available NPM package names",
   "repository": "https://github.com/zposten/wordage",
   "author": "Zach Posten <zach@posten.io>",
